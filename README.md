@@ -1,9 +1,7 @@
 # whatsapp_send_vanilla
 send message to whatsapp group by using python with mysql
 
-
 steps to execute this project \n
-
 
 1. create directory
 2. open that direcory by using command prompt by window
